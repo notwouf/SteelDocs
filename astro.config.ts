@@ -86,9 +86,7 @@ export default defineConfig({
         src: "./public/steel_logo.png",
         alt: "",
       },
-      components: {
-        Footer: "./src/components/starlight/Footer.astro",
-      },
+
       social: [
         {
           icon: "discord",
